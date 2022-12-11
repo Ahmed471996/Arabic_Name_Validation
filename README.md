@@ -1,5 +1,7 @@
 # Name_Validation
 
+An Arabic NLP project to Validate Arabic Full Names (First, Second, and Third Name) 
+
 <!-- Installation -->
 ## Installation
 
