@@ -30,6 +30,11 @@ docker-compose up --build -d
 
 The model trained on 2M example (Fake and Real Names)
 
+num_epochs = 5
+
+## Results 
+
+Training loss: 0.1828 - accuracy: 0.9318 - val_loss: 0.1840 - val_accuracy: 0.9317
 
 ## Datasets sources 
 
