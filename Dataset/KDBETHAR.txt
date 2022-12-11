@@ -1,0 +1,55 @@
+# Kalmasoft Databases
+# Database of Arabized Ethiopic Names
+# References: www.kalmasoft.com/KLEX/dbetarnm.htm, www.kalmasoft.com/KLEX/dbnames.htm
+# Created: 7/11/2022
+# Updated: 7/11/2022
+# Encoding: UTF8
+# Delimiter: TAB
+# Total entries: 2,000+
+# Copyright 1999-2021 Kalmasoft www.kalmasoft.com
+# Contact: info@kalmasoft.com
+# ================================================
+# Attributes:
+#	ID: Reference ID;
+#	Entry: Ethiopic name
+#	Roman: Ethiopic name in Latin script
+#	Arabic: Arabic parallel name
+#	IPA AMHARIC: International Phonetic Alphabet for Amharic name
+#	IPA ARABIC: International Phonetic Alphabet for Arabic name
+#	Meaning: name meaning
+#	Gender: name gender
+#		F: female
+#		M: male
+#		U: unisex
+# ================================================
+ID	ENTRY	ROMAN	ARABIC	IPA AMHARIC	IPA ARABIC	MEANING	GENDER
+E0001	ህይወት	Heywet	حياة	/hɨjɨwɛt/	/ħajaːt/	Life	F
+E0002	ብርሃኔ	Berhane	أنور	/bɨrɨhaːne/	/ʔnwar/	Light	M
+E0003	ሳምራዊት	Samrawit	توحيدة	/samɨraːwit/	/tawħiːda/	She who unifies	F
+E0004	ገብረ ሕይወት	Gebre Heywet	عبد الحي	/gɛbɨrɛ hɨjɨwɛt/	/ʕbdalħaj/	Servant of life	M
+E0005	አሐዱ	Ahadu	فريد	/ʔhɛdu/	/fariːd/	The first	M
+E0006	አማን	Aman	أمين	/ʔmaːn/	/ʔmiːn/	Peace	M
+E0007	ሀብተ አምላክ	Habte Amlak	هبة الله	/hɛbɨtɛ ʔmɨlaːk/	/hibatallah/	Present of God	F
+E0008	ገብረ አምላክ	Gebre Amlak	عبد الملك	/gɛbɨrɛ ʔmɨlaːk/	/ʕbd almalik/	Servant of God	M
+E0009	ሀጐስ	Hagos	سعيد	/hɛgoas/	/saʕiːd/	Joy, Happiness	M
+E0010	ተስፋዬ	Tesfaye	أمل	/tɛsɨfaje/	/ʔmal/	My hope	M
+E0011	ሙሉጌታ	Mulugeta	كامل	/mulugeta/	/kaːmil/	Complete master	F
+E0012	ውዳሴ	Wedase	شاكرة	/wɨdase/	/ʃaːkira/	Praise, glory	F
+E0013	ፀጋ	Tsega	نعيمة	/sɛlaːmaːwit/	/naʕiːma/	Grace	F
+E0014	ሰላማዊት	Selamawit	سالمة	/sɛlamaːwit/	/saːlima/	Peaceful one	F
+E0015	ግርማዬ	Germaye	أكرم	/gɨrɨmaːje/	/ʔkram/	Dignity	M
+E0016	ድፋዬ	Defaye	كريم	/dɨfaje/	/kariːm/	Generous	M
+E0017	አማረ	Amare	وسيم	/ʔmaːrɛ/	/wasiːm/	He is handsome	M
+E0018	አምደ	Amde	عماد	/ʔmɨdɛ/	/ʕimaːd/	Pillar of	M
+E0019	ትዝታ	Tizita	ذكرى	/tɨzɨta/	/ðikraː/	Memory	F
+E0020	ትሁኔ	Tihun	وجيدة	/tɨhune/	/wadʒiːda/	Let her be	F
+E0021	ትግስት	Tigist	صابرة	/tɨgɨsɨt/	/sˤaːbira/	Patience	F
+E0022	ትርሲት	Tersit	زينة	/tɨrɨsit/	/ziːna/	An ornament	F
+E0023	ኤደን	Aden	وعد	/ʔdɛn/	/waʕd/	Promise	F
+E0024	ሠናይት	Senayit	سناء	/sɛnajɨt/	/sanaːʔ/	Good	F
+E0025	ድንቅነሽ	Denknesh	بهية	/dɨnɨkʼɨnɛʃ/	/bahiːja/	You are Wonderful	F
+E0026	እጥፍ	Etef	عطاف	/ʔɨtˤɨf/	/ʕutˤaːf/	Double	F
+E0027	አልማዝ	Almaz	لؤلوة	/ʔlɨmaːz/	/luluːa/	Diamond	F
+E0028	መኮንን	Mekonnen	نبيل	/mɛkonɨn/	/nabiːl/	Noble	M
+E0029	ብርቅነሽ	Berknesh	غالية	/bɨrɨkʼɨnɛʃ/	/ɣaːliːja/	You are precious	F
+E0030	መብራቱ	Light	ضياء	/mɛbɨraːtu/	/dˤijːaʔ/	Light	M

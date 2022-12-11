@@ -1,0 +1,85 @@
+# Kalmasoft Databases
+# Database of Heterophonic Names
+# References: www.kalmasoft.com/KLEX/dbhetero.htm, www.kalmasoft.com/KLEX/dbnames.htm, www.kalmasoft.com/KLEX/dbuniqnm.htm, www.kalmasoft.com/KLEX/dbcount.htm
+# Created: 13/1/2021
+# Updated: 24/5/2021
+# Encoding: UTF8
+# Delimiter: TAB
+# Total entries: +20K
+# Languages contribution: 5
+# Copyright 1999-2021 Kalmasoft www.kalmasoft.com
+# Contact: info@kalmasoft.com
+# ================================================
+# Attributes:
+#	ID: Reference ID
+#	Name: Name spelling in Latin script
+#	IPA: Pronunciation in IPA
+#	Language: Name in native language script.
+#	Aux: Name in auxiliary language script.
+#	Arabic: vocalized Arabic transcription (MSA).
+#	Script: ISO15924 four-letter name native script code, please refer to www.kalmasoft.com/code.htm# lang
+#	Gender: M: male, F: female, U: unisex
+#	Origin: name origin
+#	Country: ISO 3166-3 three-letter country code, please refer to www.kalmasoft.com/code.htm# country
+# =================================================
+ID	Name	IPA	Language	Aux	Arabic	Script	Gender	Origin	Country
+H00001	Baty				باتي	Latn	F	Western	
+H00002	Baty	/batˤiː/			بَطِي	Arab	M	Arabic	
+H00003	Rene				رينيه	Latn	M	Western	
+H00004	Rene	/ranaː/			رَنَا	Arab	F	Arabic	
+H00005	Hale				هيل	Latn	M	Western	
+H00006	Hale	/haːlaː/			هَالَة	Arab	F	Arabic	
+H00007	Mason				ماسون	Latn	M	Western	
+H00008	Mason	/masˤuːn/			مصون	Arab	M	Arabic	
+H00009	Camille				كميل	Latn	M	Western	
+H00010	Camille	/dʒamiːlaː/			جَمِيلَة	Arab	F	Turkish	TUR
+H00011	Michael				مايكل	Latn	M	Western	
+H00012	Michael	/maʃʕal/			مَشْعَل	Arab	M	Arabic	
+H00013	Rad				راد	Latn	M	Western	
+H00014	Rad	/raʕd/			رَعْد	Arab	M	Arabic	
+H00015	Edwin				إدوين	Latn	M	Western	
+H00016	Edwin	/ʕadwaːn/			عدوان	Arab	M	Arabic	
+H00017	Redman				ريدمان	Latn	M	Western	
+H00018	Redman	/radmaːn/			رَدْمَان	Arab	M	Arabic	
+H00019	Karam				كارام	Latn	M	Western	
+H00020	Karam	/karam/			كَرَم	Arab	M	Arabic	
+H00021	Mays				مايس	Latn	M	Western	
+H00022	Mays	/majs/			مَيْس	Arab	M	Arabic	
+H00023	Reza				ريزا	Latn	M	Western	
+H00024	Reza	/radˤaː/			رَضَا	Arab	M	Arabic	
+H00025	Ula				أولا	Latn	M	Western	
+H00026	Ula	/ʕalaː/			عَلَا	Arab	F	Arabic	
+H00027	Aliene				إليان	Latn	M	Western	
+H00028	Aliene	/ʕalajaːn/			عَلَيَان	Arab	M	Arabic	
+H00029	Medina				مادينا	Latn	M	Western	
+H00030	Medina	/madiːnaː/			مَدِينَة	Arab	F	Arabic	
+H00031	Gurman				غورمان	Latn	M	Western	
+H00032	Gurman	/ɣarmaːn/			غَرْمَان	Arab	M	Arabic	
+H00033	Nader				نَادِر	Latn	M	Western	
+H00034	Nader	/naːdir/			نَادِر	Arab	M	Arabic	
+H00035	Baker				بيكر	Latn	M	Western	
+H00036	Baker	/bakar/			بَكْر	Arab	M	Arabic	
+H00037	Zeman				زيمان	Latn	M	Western	
+H00038	Zeman	/zamaːn/			زَمَان	Arab	M	Urdu	
+H00039	Kaur				كاور	Latn	M	Western	
+H00040	Kaur	/qaːʕuːr/			قَاعُور	Arab	M	Arabic	
+H00041	Berdan				بيردان	Latn	M	Western	
+H00042	Berdan	/bardaːn/			بَرْدَان	Arab	M	Arabic	
+H00043	Freda				فريدا	Latn	F	Western	
+H00044	Freda	/fariːdaː/			فَرِيدَة	Arab	F	Arabic	
+H00045	Hamada		浜多	はまだ	هامادا	Jpan	M	Japanese	
+H00046	Hamada	/ħamaːdaː/			حَمَادَة	Arab	M	Arabic	
+H00047	Masuda		桝田	ますだ	ماسودا	Jpan	M	Japanese	
+H00048	Masuda	/masʕuːdaː/			مَسْعُودَة	Arab	F	Arabic	
+H00049	Rayan				رايان	Latn	M	Western	
+H00050	Rayan	/rajaːn/			رَيَّان	Arab	U	Arabic	
+H00051	Karman				كارمان	Latn	M	Western	
+H00052	Karman	/karmaːn/			كَرْمَان	Arab	M	Arabic	
+H00053	Ashman				آشمان	Latn	M	Western	
+H00054	Ashman	/ʕaʃmaːn/			عَشْمَان	Arab	M	Arabic	
+H00055	Tarman				تارمان	Latn	M	Western	
+H00056	Tarman	/tˤarmaːn/			طَرْمَان	Arab	M	Arabic	
+H00057	Keiss				كايس	Latn	M	Western	
+H00058	Keiss	/qajs/			قَيْس	Arab	M	Arabic	
+H00059	Sabel				سيبل	Latn	M	Western	
+H00060	Sabel	/sabiːl/			سَبِيل	Arab	M	Arabic	

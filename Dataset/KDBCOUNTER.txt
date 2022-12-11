@@ -1,0 +1,72 @@
+# Kalmasoft Databases
+# Database of Counterintuitive Pronounced Names
+# References: www.kalmasoft.com/KLEX/dbcount.htm, www.kalmasoft.com/KLEX/dbnames.htm, www.kalmasoft.com/KLEX/dbuniqnm.htm, www.kalmasoft.com/KLEX/dbhetero.htm
+# Created: 13/1/2021
+# Updated: 24/5/2021
+# Encoding: UTF8
+# Delimiter: TAB
+# Total entries: +2K
+# Unique names: +2K
+# Languages covered: 9
+# Copyright 1999-2021 Kalmasoft www.kalmasoft.com
+# Contact: info@kalmasoft.com
+# ================================================
+# Attributes:
+#	ID: Reference ID
+#	Name: Entry in native language script.
+#	IPA: Pronunciation in IPA
+#	Arabic: vocalized Arabic transcription (MSA).
+#	Gender: M: male, F: female, U: unisex
+#	Language: ISO639-3 three-letter language code.
+#	Script: ISO15924 four-letter script code, please refer to www.kalmasoft.com/code.htm# lang
+#	Origin: name origin
+#	Country: ISO 3166-3 three-letter country code, please refer to www.kalmasoft.com/code.htm# country
+# ================================================
+
+ID	Name	IPA	Arabic	Gender	Language	Script	Origin	Country
+C0001	Aghaistín	/aːstiːn/	آسْتِين	M	gle	Latn	Irish	IRL
+C0002	Aíbgréine	/iːfgaraːjniː/	إيفْغَرايني	F	gle	Latn	Irish	IRL
+C0003	Aibhilín	/aːfjljn/	آفيلين	F	gle	Latn	Irish	IRL
+C0004	Alaettin	/ʕalaːʔ aːlddiːn/	عَلَاء الدِّين	M	tur	Latn	Arabic	TUR
+C0005	Almoctar	/ʔlmuχtaːr/	المُخْتَار	M	eng	Latn	Arabic	CMR
+C0006	Almoustapha	/ʔlmusˤtˤafaː/	المُصْطَفى	M	eng	Latn	Arabic	CMR
+C0007	Ebûssüûd	/ʔabuː aːlsuʕuːd/	أَبُو السُعُود	M	tur	Latn	Arabic	TUR
+C0008	Eyice	/ʕaːʔiiʃaː/	عَائِشَة	M	tur	Latn	Arabic	TUR
+C0009	Farxaan	/farħaːn/	فَرْحان	F	som	Latn	Arabic	SOM
+C0010	Fettullah	/fajdˤ allah/	فَيْض الله	M	tur	Latn	Arabic	TUR
+C0011	Fevvaz	/fawwaːz/	فَوَّاز	M	tur	Latn	Arabic	TUR
+C0012	Fevzettin	/fuːz aːlddiːn/	فُوز الدِّين	M	tur	Latn	Arabic	TUR
+C0013	Macide	/madʒiːdaː/	مَجِيدَة	F	tur	Latn	Arabic	TUR
+C0014	Macit	/maːdʒid/	مَاجِد	M	tur	Latn	Arabic	TUR
+C0015	Mevcude	/mawdʒuːdaː/	مَوْجُودَة	F	tur	Latn	Arabic	TUR
+C0016	Mevcut	/mawdʒuːd/	مَوْجُود	M	tur	Latn	Arabic	TUR
+C0017	Meveddet	/mawaddaː/	مَوَدَّة	F	tur	Latn	Arabic	TUR
+C0018	Mevlana	/mawlaːnaː/	مَوْلَانَا	M	tur	Latn	Arabic	TUR
+C0019	Mevlida	/mawladaː/	مَوْلَدَة	F	tur	Latn	Arabic	TUR
+C0020	Mevlidiye	/mawluːdiːjaː/	مَوْلُودِيَّة	F	tur	Latn	Arabic	TUR
+C0021	Mevlüde	/mawluːdaː/	مَوْلُودَة	F	tur	Latn	Arabic	TUR
+C0022	Mevlut	/mawluːd/	مَوْلُود	M	tur	Latn	Arabic	TUR
+C0023	Mücessem	/mudʒassam/	مُجَسَّم	F	tur	Latn	Arabic	TUR
+C0024	Mücevher	/mudʒawhar/	مُجَوْهَر	F	tur	Latn	Arabic	TUR
+C0025	Mücibe	/madʒiːbaː/	مَجِيبَة	F	tur	Latn	Arabic	TUR
+C0026	Mucide	/mawdʒadaː/	مَوْجَدَة	F	tur	Latn	Arabic	TUR
+C0027	Mucip	/madʒiːb/	مَجِيب	M	tur	Latn	Arabic	TUR
+C0028	Mucit	/mudʒiːd/	مُجِيد	M	tur	Latn	Arabic	TUR
+C0029	Mucize	/mudʒiːzaː/	مُجِيزَة	F	tur	Latn	Arabic	TUR
+C0030	Mücteba	/mudʒtabaː/	مُجْتَبَى	M	tur	Latn	Arabic	TUR
+C0031	Necat	/nadʒaːat/	نَجَاة	M	tur	Latn	Arabic	TUR
+C0032	Necati	/nadʒaːtiː/	نَجَاتِي	M	tur	Latn	Arabic	TUR
+C0033	Necdet	/nadʒdat/	نَجْدَت	M	tur	Latn	Arabic	TUR
+C0034	Necile	/nadʒlaːʔ/	نَجْلَاء	F	tur	Latn	Arabic	TUR
+C0035	Necip	/nadʒiːb/	نَجِيب	M	tur	Latn	Arabic	TUR
+C0036	Neclâ	/nadʒlaːʔ/	نَجْلَاء	F	tur	Latn	Arabic	TUR
+C0037	Nevra	/nuːraː/	نُورا	F	tur	Latn	Arabic	TUR
+C0038	Nevriye	/nuːriːjaː/	نُورِيَّة	F	tur	Latn	Arabic	TUR
+C0039	Cathaláin	/kaːluːn/	كَالُون	M	gle	Latn	Irish	IRL
+C0040	Catharnaigh	/kuːrniː/	كُورْنِي	M	gle	Latn	Irish	IRL
+C0041	Ceallacháin	/kaːlwaːn/	كالوان	M	gle	Latn	Irish	IRL
+C0042	Ceanndubháin	/kaːnuːfiːn/	كَانُوفِين	M	gle	Latn	Irish	IRL
+C0043	Cearnaigh	/kuːrniː/	كُوْرنِي	M	gle	Latn	Irish	IRL
+C0044	Cianáin	/kiːnuːn/	كِيْنُون	M	gle	Latn	Irish	IRL
+C0045	Ciaráin    	/kajriːn/	كَيْرِين	M	gle	Latn	Irish	IRL
+
